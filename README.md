@@ -1,2 +1,2 @@
 # vovanchik
-Just like shitpost-programm
+Just shitpost-like programm
